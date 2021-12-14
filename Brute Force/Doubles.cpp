@@ -11,7 +11,6 @@ int main() {
 		
 	int* p;
 
-
 	while (true) {
 		
 		std::cin >> n;
